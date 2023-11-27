@@ -1,0 +1,22 @@
+body {
+    background-color: #122355;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+.line {
+    background-color: #cf0033;
+}
+
+    .line a {
+        font-size: 40px;
+        color: white;
+        text-decoration: none;
+    }
+
+.saygex {
+    background-color: #ffffff;
+    width: 30vw;
+}
