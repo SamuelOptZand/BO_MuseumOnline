@@ -1,0 +1,27 @@
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+body {
+    background-color: #122355;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.line {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #cf0033;
+    text-align: center;
+    word-spacing: 10px;
+}
+
+.line a {
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}

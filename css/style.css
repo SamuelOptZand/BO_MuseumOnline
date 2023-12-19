@@ -1,0 +1,48 @@
+body {
+    background-color: #122355;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.line {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #cf0033;
+    text-align: center;
+}
+
+.line a {
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.saygex {
+    background-color: #ffffff;
+    width: 30vw;
+    margin-top: 10px;
+    float: left;
+}
+
+
+.Openingtimes {
+    margin-left: 250px;
+    margin-top: 10px;
+    background-color: #ffffff;
+    width: 10%;
+    height: 195px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 1px;
+    float: right;
+}
+
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
